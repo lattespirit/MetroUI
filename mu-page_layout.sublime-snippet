@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<div class="page">
+	<div class="page-header">
+		<div class="page-header-content">
+			${1:content}
+		</div>
+	</div>
+	<div class="page-region">
+		<div class="page-region-content">
+			${2:content}
+		</div>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mupage</tabTrigger>
+	<description>Metro UI Default Page Layout</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

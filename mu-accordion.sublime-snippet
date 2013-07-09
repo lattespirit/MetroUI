@@ -1,0 +1,35 @@
+<snippet>
+	<content><![CDATA[
+<ul class="accordion" data-role="accordion">
+	<li class="active">
+		<a href="#">Frame 1</a>
+		<div>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dolorum delectus dolor laboriosam iure earum velit dicta aperiam illum odio esse qui nisi impedit perspiciatis reprehenderit natus eos eius soluta.</p>
+		</div>
+	</li>
+	<li>
+		<a href="#">Frame 2</a>
+		<div>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum corrupti impedit consectetur eligendi esse libero consequatur aut architecto unde fuga. Quam omnis eos at beatae officiis alias quidem autem iure.</p>
+		</div>
+	</li>
+	<li>
+		<a href="#">Frame 3</a>
+		<div>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab corrupti accusantium fugiat nam sequi voluptas modi. Maxime nemo quia culpa quam perspiciatis aut debitis officiis molestiae id reprehenderit ipsam nobis!</p>
+		</div>
+	</li>
+	<li>
+		<a href="#">Frame 4</a>
+		<div>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quidem vel debitis autem porro quaerat sed at odit earum aliquam iusto aliquid qui harum dolores aut beatae culpa ea dignissimos.</p>
+		</div>
+	</li>
+</ul>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>muacc</tabTrigger>
+	<description>Metro UI Accordion</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

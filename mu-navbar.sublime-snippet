@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+<div class="nav-bar">
+	<div class="nav-bar-inner">
+		<a href="#"><span class="element brand">Project Name</span></a>
+		<span class="divider"> </span>
+		<ul class="menu">
+			<li data-role="dropdown">
+				<a>Item 1</a>
+				<ul class="dropdown-menu">
+					<li><a href="#">SubItem 1</a></li>
+					<li><a href="#">SubItem 2</a></li>
+					<li><a href="#">SubItem 3</a></li>
+					<li class="divider"></li>
+					<li><a href="#">SubItem 4</a></li>
+				</ul>
+			</li>
+			<li><a href="#">Item 2</a></li>
+			<li><a href="#">Item 3</a></li>
+			<li><a href="#">Item 4</a></li>
+		</ul>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>munavbar</tabTrigger>
+	<description>Metro UI Navigation Bar</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

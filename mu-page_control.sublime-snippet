@@ -1,0 +1,37 @@
+<snippet>
+	<content><![CDATA[
+<div class="page-control span10" data-role="page-control">
+	<span class="menu-pull"></span>
+	<div class="menu-pull-bar"></div>
+	<ul>
+		<li class="active"><a href="#page1">Page 1</a></li>
+		<li><a href="#page2">Page 2</a></li>
+		<li><a href="#page3">Page 3</a></li>
+		<li><a href="#page4">Page 4</a></li>
+	</ul>
+	<div class="frames">
+		<div class="frame active" id="page1">
+			<h2>Page 1</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum eum tempora aperiam non dignissimos sunt dolore qui cum optio voluptate. Explicabo nulla non eius cum illo voluptate modi vel tenetur.</p>
+		</div>
+		<div class="frame" id="page2">
+			<h2>Page 2</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos soluta culpa enim fugiat quidem debitis assumenda doloremque perspiciatis saepe esse aliquam tempore dolores. Doloremque culpa quos placeat quo quas repudiandae.</p>
+		</div>
+		<div class="frame" id="page3">
+			<h2>Page 3</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti vitae adipisci quam quidem ipsum neque earum esse maxime repellendus cupiditate consequatur voluptatibus corrupti assumenda similique nemo ex ea! Dolore quidem?</p>
+		</div>
+		<div class="frame" id="page4">
+			<h2>Page 4</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis et quo consequuntur enim vitae nesciunt deleniti ipsam praesentium saepe commodi? Sint eligendi distinctio expedita inventore neque nam quae fuga suscipit.</p>
+		</div>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mupagecon</tabTrigger>
+	<description>Metro UI Page Control</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<div class="image-collection p4x3">
+	<div>
+		<img src="${1:url://}" alt=""/>
+		<div class="overlay">
+			${2:Overlay Text}
+		</div>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>musc4x3</tabTrigger>
+	<description>Metro UI Simple Collection(4x3)</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

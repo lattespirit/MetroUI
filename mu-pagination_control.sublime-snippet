@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+<div class="pagination">
+	<ul>
+		<li class="first"><a></a></li>
+		<li class="prev"><a></a></li>
+		<li class=""><a>1</a></li>
+		<li class=""><a>2</a></li>
+		<li class="active"><a>3</a></li>
+		<li class="disabled"><a>4</a></li>
+		<li class=""><a>...</a></li>
+		<li class=""><a>500</a></li>
+		<li class="next"><a></a></li>
+		<li class="last"><a></a></li>
+	</ul>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mupn</tabTrigger>
+	<description>Metro UI Pagination Control</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

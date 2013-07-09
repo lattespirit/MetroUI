@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<div class="tile" data-role="tile-slider">
+	<div class="tile-content">
+		${1:...Content One here...}
+	</div>
+	<div class="tile-content">
+		${1:...Content Two here...}
+	</div>
+	<div class="tile-content">
+		${1:...Content Three here...}
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mutilesl</tabTrigger>
+	<description>Metro UI Tile Slider</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

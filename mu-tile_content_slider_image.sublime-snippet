@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<div class="tile double image-slider" data-role="tile-slider">
+	<div class="tile-content">
+		<img src="${1:url://}" alt=""/>
+	</div>
+	<div class="tile-content">
+		<img src="${2:url://}" alt=""/>
+	</div>
+	<div class="tile-content">
+		<img src="${3:url://}" alt=""/>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mutilesl:i</tabTrigger>
+	<description>Metro UI Tile Image Slider</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

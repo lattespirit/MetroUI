@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="image-container">
+	<img src="${1:url://}" alt=""/>
+	<div class="overlay">
+		${2:Overlay Text}
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>muic</tabTrigger>
+	<description>Metro UI Image Control</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,39 @@
+<snippet>
+	<content><![CDATA[
+<table>
+	<thead>
+		<tr>
+			<th>Item 1</th>
+			<th class="right">Item 2</th>
+			<th class="right">Item 3</th>
+			<th class="right">Item 4</th>
+		</tr>
+		<tbody>
+			<tr>
+				<td>Item 1</td>
+				<td class="right">Item 2</td>
+				<td class="right">Item 3</td>
+				<td class="right">Item 4</td>
+			</tr>
+			<tr>
+				<td>Item 1</td>
+				<td class="right">Item 2</td>
+				<td class="right">Item 3</td>
+				<td class="right">Item 4</td>
+			</tr>
+			<tr>
+				<td>Item 1</td>
+				<td class="right">Item 2</td>
+				<td class="right">Item 3</td>
+				<td class="right">Item 4</td>
+			</tr>
+		</tbody>
+	</thead>
+</table>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mutable</tabTrigger>
+	<description>Metro UI Default Table</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
